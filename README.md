@@ -27,7 +27,7 @@ Author: Decker Guzmán Zabalaga
 - Agregar raster de NASA Earth Observations (NEO)
 ## 2. MATERIAL Y MANUAL
 
-Se adjunta en este mismo repositorio un manual detallado llamado "MInicurso_QGIS_PART1.pdf" y un archivo "Datos.rar" para poder hacer los ejercicios.
+Se adjunta en este mismo repositorio un manual detallado llamado "MInicurso_QGIS_PART1.pdf" y un archivo "Datos.rar" para poder hacer los ejercicios. Debido al tamaño del archivo "Datos.rar" se puede descargar siguiendo el enlace en google Drive: https://drive.google.com/file/d/1uAFbyrxw7Nm4dgiZdJqwUVqMOKRQyVVd/view?usp=sharing
 
 ## 3. RECOMENDACIONES 
 
